@@ -1,0 +1,81 @@
+rotate
+x 20
+torus
+250 100 0 5 100
+torus
+250 110 0 5 90
+torus
+250 120 0 5 80
+torus
+250 125 0 5 70
+torus
+250 130 0 5 60
+torus
+250 135 0 5 50
+torus
+250 140 0 5 40
+torus
+250 150 0 5 20
+torus
+250 150 0 5 50
+torus
+250 160 0 5 45
+torus
+250 170 0 5 35
+torus
+250 180 0 5 30
+torus
+250 190 0 5 25
+torus
+250 200 0 5 20
+torus
+250 210 0 5 20
+torus
+250 220 0 5 20
+torus
+250 230 0 5 20
+torus
+250 240 0 5 20
+torus
+250 250 0 5 30
+torus
+250 260 0 5 50
+torus
+250 270 0 5 40
+torus
+250 280 0 5 45
+torus
+250 290 0 5 50
+torus
+250 300 0 5 60
+torus
+250 310 0 5 65
+torus
+250 320 0 5 60
+torus
+250 330 0 5 55
+torus
+250 340 0 5 50
+torus
+250 350 0 5 45
+torus
+250 360 0 5 40
+torus
+250 370 0 5 35
+torus
+250 380 0 5 30
+torus
+250 390 0 5 25
+torus
+250 400 0 5 20
+torus
+250 410 0 5 15
+torus
+250 420 0 5 10
+sphere
+250 440 0 20
+box
+100 100 150 300 20 300
+display
+save
+img.png
